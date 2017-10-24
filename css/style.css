@@ -1,0 +1,19 @@
+
+h1 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+
+.service-item {
+  background: black;
+  background-color: black;
+}
+.row.text-center {
+  background-color: black;
+}
+
+.bg-primary{
+  background-color: black !important;
+}
